@@ -1,0 +1,16 @@
+C:\Users\eliza\OneDrive\Documentos\GitHub\Recursividad4\bin\Debug\net5.0\Recursividad4.exe
+C:\Users\eliza\OneDrive\Documentos\GitHub\Recursividad4\bin\Debug\net5.0\Recursividad4.deps.json
+C:\Users\eliza\OneDrive\Documentos\GitHub\Recursividad4\bin\Debug\net5.0\Recursividad4.runtimeconfig.json
+C:\Users\eliza\OneDrive\Documentos\GitHub\Recursividad4\bin\Debug\net5.0\Recursividad4.runtimeconfig.dev.json
+C:\Users\eliza\OneDrive\Documentos\GitHub\Recursividad4\bin\Debug\net5.0\Recursividad4.dll
+C:\Users\eliza\OneDrive\Documentos\GitHub\Recursividad4\bin\Debug\net5.0\Recursividad4.pdb
+C:\Users\eliza\OneDrive\Documentos\GitHub\Recursividad4\obj\Debug\net5.0\Recursividad4.csproj.AssemblyReference.cache
+C:\Users\eliza\OneDrive\Documentos\GitHub\Recursividad4\obj\Debug\net5.0\Recursividad4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliza\OneDrive\Documentos\GitHub\Recursividad4\obj\Debug\net5.0\Recursividad4.AssemblyInfoInputs.cache
+C:\Users\eliza\OneDrive\Documentos\GitHub\Recursividad4\obj\Debug\net5.0\Recursividad4.AssemblyInfo.cs
+C:\Users\eliza\OneDrive\Documentos\GitHub\Recursividad4\obj\Debug\net5.0\Recursividad4.csproj.CoreCompileInputs.cache
+C:\Users\eliza\OneDrive\Documentos\GitHub\Recursividad4\obj\Debug\net5.0\Recursividad4.dll
+C:\Users\eliza\OneDrive\Documentos\GitHub\Recursividad4\obj\Debug\net5.0\refint\Recursividad4.dll
+C:\Users\eliza\OneDrive\Documentos\GitHub\Recursividad4\obj\Debug\net5.0\Recursividad4.pdb
+C:\Users\eliza\OneDrive\Documentos\GitHub\Recursividad4\obj\Debug\net5.0\Recursividad4.genruntimeconfig.cache
+C:\Users\eliza\OneDrive\Documentos\GitHub\Recursividad4\obj\Debug\net5.0\ref\Recursividad4.dll
